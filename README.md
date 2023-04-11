@@ -17,7 +17,7 @@
 <td>
 <b>Sign in</b> with image on left
 </td>
-<td><img src="https://user-images.githubusercontent.com/121644613/230766220-2ad34ba5-b7d1-457a-896d-bf07a1a0075b.png"></td>
+<td>Coming soon</td>
 </tr>
 
 
@@ -25,7 +25,7 @@
 <td>
 <b>Sign in</b> with background image and centered form
 </td>
-<td><img src="https://user-images.githubusercontent.com/121644613/230766220-2ad34ba5-b7d1-457a-896d-bf07a1a0075b.png"></td>
+<td>Coming soon</td>
 </tr>
 
 
